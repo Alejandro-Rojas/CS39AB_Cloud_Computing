@@ -1,5 +1,5 @@
 # Lab 01
-
+# requirements
 ## Setup a WordPress Blog Server
 
 ## Goal
