@@ -17,10 +17,10 @@ EXCHANGE_RATE_URL = ' https://www.coindesk.com/price/ethereum'
 if __name__ == "__main__":
 
     # delete the following lines once you are satisfied with the db connection and before creating the docker image
-    os.environ['DB_HOST']     = 'lab03.c8yzzsnmodry.us-west-1.rds.amazonaws.com'
-    os.environ['DB_NAME']     = 'ethereum'
-    os.environ['DB_USER']     = 'ethereum'
-    os.environ['DB_PASSWORD'] = '135791'    
+    os.environ['DB_HOST']     = ''
+    os.environ['DB_NAME']     = ''
+    os.environ['DB_USER']     = ''
+    os.environ['DB_PASSWORD'] = ''    
     
     
     # attempt to connect to MySQL
