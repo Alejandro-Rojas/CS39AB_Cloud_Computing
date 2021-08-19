@@ -1,0 +1,12 @@
+zip -r ethereum_display.zip \
+    ethereum_display.py \
+    bs4 \
+    certifi \
+    charset_normalizer \
+    google \
+    idna \
+    requests \
+    soupsieve \
+    urllib3 \
+    mysql \
+    mysqlx
